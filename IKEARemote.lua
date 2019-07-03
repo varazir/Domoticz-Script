@@ -1,7 +1,8 @@
 --
 -- Creater Varazir ( And big helt from waaren and others on domotiz forum )
--- e-mail: varazir .. gmail.com
+-- E-mail: varazir .. gmail.com
 -- Version: 1.0
+-- Forum https://www.domoticz.com/forum/viewtopic.php?f=59&t=28489
 --
 
 
